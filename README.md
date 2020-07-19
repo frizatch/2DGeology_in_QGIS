@@ -47,7 +47,7 @@ Here are some classic examples of the three main rock types:
 
 GRANITE (an igneous rock type):
 
-![Granite](images/Fjaere.jpeg)
+![Granite](images/FjaereCopy.jpeg)
 
 *By I, Friman, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2421115*
 
