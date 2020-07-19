@@ -1,5 +1,5 @@
 # Geologic Maps and Cross Sections in QGIS
-Workshop for QGIS NA 2020 introducing geologic maps and cross-sections to the geology hobbyist
+Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for students and hobbyists
 
 ![DetailWellsGeologicMap](images/NCARGeologyScreenshot.JPG)
 *Detail of Eldorado Springs Geologic Quadrangle, Wells, 1967*
@@ -114,6 +114,6 @@ Plate tectonic forces also work on igneous and metamporhic rocks, but their effe
 
 The black lines and symbols you see scattered on geologic maps are a short-hand for describing the structures mentioned above. See this [guide](https://commons.wvc.edu/rdawes/G101OCL/Basics/BscsTables/geomapsymb.html#sdtable) for examples.
 
-There is also an amazing source of .svg files of the point symbols used in geologic maps created by Dr. Richard Langford, a geologic consultant living in Tasmania.  Some of these symbols are included in the data folder in this tutorial.
+There is also an amazing source of .svg files of the point symbols used in geologic maps created by Dr. Richard Langford, a geologic consultant living in Tasmania.  Some of these symbols are included in the data folder for this tutorial.
 
 The blobs of color with different etch patterns show the surface exposures of different kinds of rocks, often with their ages wrt the Geologic Time Scale. Refer to the individual legends of each geologic map for more information.
