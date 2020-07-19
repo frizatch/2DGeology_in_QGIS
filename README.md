@@ -1,7 +1,5 @@
-# 2DGeology_in_QGIS
+# Geologic Maps and Cross Sections in QGIS
 Workshop for QGIS NA 2020 introducing geologic maps and cross-sections to the geology hobbyist
-
-# Geologic Maps: Intro to rocks and QGIS
 
 ![DetailWellsGeologicMap](images/NCARGeologyScreenshot.JPG)
 *Detail of Eldorado Springs Geologic Quadrangle, Wells, 1967*
