@@ -18,9 +18,8 @@ Orientation to some geologic terms and structures
 - antclines, synclines and monoclines
 - faults (normal, thrust or reverse, strike/slip)
 
-How to find the above geologic things on a map
-
-An intro into how you can create and edit geologic maps in QGIS
+Interpreting the symbols on a geologic map that represent the surface exposure of these structures and working with these in QGIS.
+Introduction to using the qprof plugin for creating geologic cross sections using a combination of QGIS and Inkscape.
 
 ## What this tutorial won't do:
 
