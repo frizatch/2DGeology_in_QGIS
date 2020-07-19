@@ -18,7 +18,7 @@ Orientation to some geologic terms and structures
 - antclines, synclines and monoclines
 - faults (normal, thrust or reverse, strike/slip)
 
-2D geologic graphics with ![QGIS](qgis-icon_anita02.png) and ![Inkscape](1024px-Inkscape_Logo.png)
+2D geologic graphics with ![QGIS](images/qgis.png) and ![Inkscape](images/inkscape.png)
 - import geologic symbol libraries
 - stylize a geologic map
 - create a geologic cross section with the qprof plugin and Inkscape
