@@ -138,6 +138,7 @@ To dive into this, we need some data! You can go to this DATA DOWNLOAD page to g
 ## Resources
 Maps and GIS data
 - national geologic map database
+
 Geologic Symbology
 - Geologic symbol .svg [library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Langford created from USGS pdfs. His [website](http://www.richardlangford.com/) and the  he created from USGS pdf
 - FGDC standards for [geologic symbology](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php)
