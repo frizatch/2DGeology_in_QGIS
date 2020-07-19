@@ -130,6 +130,7 @@ To dive into this, we need some data! You can go to this DATA DOWNLOAD page to g
 - load layers
 - explore (vector data and raster maps)
 - note projections of GeoTIFFS
+- plugin(s) need qprof, quickmapservices is nice for OSM reference layer, not necessary
 - create contours raster extract 10m
 - 
 
