@@ -18,7 +18,7 @@ Orientation to some geologic terms and structures
 - antclines, synclines and monoclines
 - faults (normal, thrust or reverse, strike/slip)
 
-2D geologic graphics with ![QGIS](images/qgis-icon_mini.png) and ![Inkscape](images/InkscapeLogo_mini.png)
+2D geologic graphics with ![QGIS logo](images/qgis-icon_mini.png) and ![Inkscape logo](images/InkscapeLogo_mini.png)
 - import geologic symbol libraries
 - stylize a geologic map
 - create a geologic cross section with the qprof plugin and Inkscape
@@ -120,3 +120,6 @@ The black lines and symbols you see scattered on geologic maps are a short-hand 
 There is also an amazing source of .svg files of the point symbols used in geologic maps created by Dr. Richard Langford, a geologic consultant living in Tasmania.  Some of these symbols are included in the data folder for this tutorial.
 
 The blobs of color with different etch patterns show the surface exposures of different kinds of rocks, often with their ages wrt the Geologic Time Scale. Refer to the individual legends of each geologic map for more information.
+
+## Part III: Geologic Maps in QGIS
+![QGIS logo](images/qgis-icon_mini.png)
