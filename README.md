@@ -121,7 +121,7 @@ There is also an amazing source of .svg files of the point symbols used in geolo
 
 The blobs of color with different etch patterns show the surface exposures of different kinds of rocks, often with their ages wrt the Geologic Time Scale. Refer to the individual legends of each geologic map for more information.
 
-#MAPPING!
+# MAPS AND CROSS SECTIONS!
 
 To dive into this, we need some data! You can go to this DOWNLOAD PAGE to grab files for this workshop. Further resources will be listed at the end of the tutorial.
 ## Part III: Geologic Maps in QGIS
