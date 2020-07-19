@@ -115,7 +115,7 @@ Plate tectonic forces also work on igneous and metamporhic rocks, but their effe
 
 ### Representing structures on a map
 
-The black lines and symbols you see scattered on geologic maps are a short-hand for describing the structures mentioned above. See this [guide](https://commons.wvc.edu/rdawes/G101OCL/Basics/BscsTables/geomapsymb.html#sdtable) for examples.
+The black lines and symbols you see scattered on geologic maps are a short-hand for describing the structures mentioned above. See this [guide](https://commons.wvc.edu/rdawes/G101OCL/Basics/BscsTables/geomapsymb.html#sdtable) for examples. The full symbology reference for the USGS can be found published in this [standard](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php).
 
 There is also an amazing source of .svg files of the point symbols used in geologic maps created by Dr. Richard Langford, a geologic consultant living in Tasmania.  Some of these symbols are included in the data folder for this tutorial.
 
@@ -136,6 +136,9 @@ To dive into this, we need some data! You can go to this DATA DOWNLOAD page to g
 
 
 ## Resources
-
+Maps and GIS data
 - national geologic map database
+Geologic Symbology
+- Geologic symbol .svg [library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Langford created from USGS pdfs. His [website](http://www.richardlangford.com/) and the  he created from USGS pdf
+- FGDC standards for [geologic symbology](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php)
 
