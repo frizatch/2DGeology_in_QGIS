@@ -55,7 +55,7 @@ GRANITE (an igneous rock type):
 
 SANDSTONE (a sedimentary rock type):
 
-![Sandstone](images/Valley_of_Fire_Sandstone.jpg)
+![Sandstone](images/Valley_of_Fire_Sandstone_sm.jpg)
 
 *By Hasmodius, CC BY-SA 4.0 https://commons.wikimedia.org/wiki/File:Valley_of_Fire_Sandstone_layers_exposed_by_erosion.jpg*
 
@@ -63,7 +63,7 @@ SANDSTONE (a sedimentary rock type):
 
 MIGMATITE (a metamporhic rock type):
 
-![Migmatite](images/Migmatite.jpg)
+![Migmatite](images/Migmatite_sm.jpg)
 
 *https://commons.wikimedia.org/wiki/File:Migma_ss_2006.jpg*
 
