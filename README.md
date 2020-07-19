@@ -123,7 +123,7 @@ The blobs of color with different etch patterns show the surface exposures of di
 
 # MAPS AND CROSS SECTIONS!
 
-To dive into this, we need some data! You can go to this DOWNLOAD PAGE to grab files for this workshop. Further resources will be listed at the end of the tutorial.
+To dive into this, we need some data! You can go to this DATA DOWNLOAD page to grab files for this workshop. Further resources will be listed at the end of the tutorial.
 ## Part III: Geologic Maps in QGIS
 ![QGIS logo](images/qgis-icon_mini.png)
 
