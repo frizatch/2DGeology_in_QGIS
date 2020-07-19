@@ -140,6 +140,6 @@ Maps and GIS data
 - national geologic map database
 
 Geologic Symbology
-- Geologic symbol .svg [library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Langford created from USGS pdfs. His [website](http://www.richardlangford.com/) and the  he created from USGS pdf
+- Geologic symbol [.svg library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Richard Langford created from USGS pdfs. His [website](http://www.richardlangford.com/) can tell you more about him.
 - FGDC standards for [geologic symbology](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php)
 
