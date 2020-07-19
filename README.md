@@ -18,8 +18,12 @@ Orientation to some geologic terms and structures
 - antclines, synclines and monoclines
 - faults (normal, thrust or reverse, strike/slip)
 
-Interpreting the symbols on a geologic map that represent the surface exposure of these structures and working with these in QGIS.
-Introduction to using the qprof plugin for creating geologic cross sections using a combination of QGIS and Inkscape.
+2D geologic graphics with ![](qgis-icon_anita02.png) and ![](1024px-Inkscape_Logo.png)
+- import geologic symbol libraries
+- stylize a geologic map
+- create a geologic cross section with the qprof plugin and Inkscape
+
+You'll learn how to interpret the symbols on a geologic map that represent the surface exposure of the structures mentioned above. You'll also get a start on how the information from this surficial data can help estimate what the formations look like underground.
 
 ## What this tutorial won't do:
 
