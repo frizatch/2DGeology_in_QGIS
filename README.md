@@ -5,7 +5,7 @@ Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for stude
 ![DetailWellsGeologicMap](images/EldoradoMountainCrossSection_Wells67.JPG)
 *Detail and cross section from Eldorado Springs Geologic Quadrangle, Wells, 1967*
 
-## FOSS Software:
+## FOSS Software Needed:
 - QGIS can be downloaded at https://www.qgis.org/
 - Inkscape can be downloaded at https://inkscape.org/
 
