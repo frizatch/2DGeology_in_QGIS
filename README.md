@@ -4,6 +4,12 @@ Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for stude
 ![DetailWellsGeologicMap](images/NCARGeologyScreenshot.JPG)
 *Detail of Eldorado Springs Geologic Quadrangle, Wells, 1967*
 
+## FOSS Software:
+- QGIS can be downloaded at https://www.qgis.org/
+- Inkscape can be downloaded at https://inkscape.org/
+
+Please consider donating to these organizations!
+
 ## What this tutorial will cover:
 
 Introduction to the rock cycle and main rock types:
@@ -128,18 +134,25 @@ To dive into this, we need some data! You can go to this DATA DOWNLOAD page to g
 ![QGIS logo](images/qgis-icon_mini.png)
 
 - load layers
-- explore (vector data and raster maps)
-- note projections of GeoTIFFS
+- explore (vector data and raster GeoTIFFS)
 - plugin(s) need qprof, quickmapservices is nice for OSM reference layer, not necessary
+- Symbolizing - do structures THEN geolpoly
+- labeling
+- discuss DEM
 - create contours raster extract 10m
 - 
 
 
 ## Resources
-Maps and GIS data
-- national geologic map database
+Maps and (maybe) GIS data
+- [national geologic map database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
+ 
+     [Kellog 2008 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_84408.htm)
+
+     [Wells 1967 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_21289.htm)
+
 
 Geologic Symbology
-- Geologic symbol [.svg library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Richard Langford created from USGS pdfs. His [website](http://www.richardlangford.com/) can tell you more about him.
+- Geologic symbols: [.svg library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Richard Langford created from USGS pdfs. Here's his [website](http://www.richardlangford.com/).
 - FGDC standards for [geologic symbology](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php)
 
