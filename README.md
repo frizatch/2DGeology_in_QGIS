@@ -1,8 +1,9 @@
 # Geologic Maps and Cross Sections in QGIS
 Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for students and hobbyists
 
-![DetailWellsGeologicMap](images/NCARGeologyScreenshot.JPG)
-*Detail of Eldorado Springs Geologic Quadrangle, Wells, 1967*
+![DetailWellsGeologicMap](images/EldoradoMountainGeolMap_Wells67.JPG)
+![DetailWellsGeologicMap](images/EldoradoMountainCrossSection_Wells67.JPG)
+*Detail and cross section from Eldorado Springs Geologic Quadrangle, Wells, 1967*
 
 ## FOSS Software:
 - QGIS can be downloaded at https://www.qgis.org/
