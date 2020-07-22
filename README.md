@@ -138,18 +138,43 @@ The blobs of color with different etch patterns show the surface exposures of di
 
 # MAPS AND CROSS SECTIONS!
 
-First of all, we need to pick a particular location to investigate. Because I'm familiar with it, I'm going to introduce you to the landscape near the National Center for Atmospheric Research (NCAR) in Boulder, CO USA. There are iconic geologic shapes in this area known as the Flatirons. We're going to look at a bit of the world that's a bit south of these often photographed mountains:
+First of all, we need to pick a particular location to investigate. Because I'm familiar with it, I'm going to introduce you to the landscape near the National Center for Atmospheric Research (NCAR) in Boulder, CO USA. There are iconic geologic formations in this area known as the Flatirons. We're going to look at the landscape that's a bit south of these often photographed mountains:
 
 ![Boulder Flatirons](images/640x_BoulderFlatirons_PH.jpg)
+
 Boulder Flatirons by Paulhaberstroh [CC by SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 To dive into making a basic geologic map of this area, we need the information structural geologists have collected by examining the surface exposures of the rocks. We'll then take that information and combine it with elevation data and construct our best guess of what these rocks look like in a profile view or a "cross section."
+
+You should see three different folders of files in the [dropbox link](https://www.dropbox.com/sh/fth75xanut760i3/AACtcFVLZ_zMq9NBN5mNb9fRa?dl=0)
+
+Data
+ - Surface Measurements (StrikeDipMeasures.geojson)
+ - Fault lines (KellogFaults_AOI.geojson)
+ - Geologic formation surface exposures (KellogGeolPoly_AOI_rocktype.geojson)
+ - Transect (transect_NCARTrail.geojson)
+ 
+GeologicMaps
+ - Kellog
+ - Wells
+ 
+GeologicSymbology
+ - Rock type styling (lithclass.qml)
+ - Surficial geologic symbols (.zip file)
 
 *Resources for finding this kind of information for other areas are listed at the end of the tutorial.*
 
 
 ## Part III: Geologic Maps in QGIS
 ![QGIS logo](images/qgis-icon_mini.png)
+
+# Open QGIS
+
+# Projection
+
+# Load Data
+
+
 
 - load layers
 - explore (vector data and raster GeoTIFFS)
