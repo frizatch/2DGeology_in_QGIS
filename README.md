@@ -140,10 +140,10 @@ The blobs of color with different etch patterns show the surface exposures of di
 
 First of all, we need to pick a particular location to investigate. Because I'm familiar with it, I'm going to introduce you to the landscape near the National Center for Atmospheric Research (NCAR) in Boulder, CO USA. There are iconic geologic shapes in this area known as the Flatirons. We're going to look at a bit of the world that's a bit south of these often photographed mountains:
 
-[Boulder Flatirons](images/)
-Boulder Flatirons by Paul [CC by SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+![Boulder Flatirons](images/640x_BoulderFlatirons_PH.jpg)
+Boulder Flatirons by Paulhaberstroh [CC by SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-To dive into this, we need to load our data!
+To dive into making geologic maps of this area, we need to load our data!
 
 *Resources for finding this kind of information for other areas are listed at the end of the tutorial.*
 
