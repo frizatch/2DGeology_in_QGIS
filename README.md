@@ -138,7 +138,16 @@ The blobs of color with different etch patterns show the surface exposures of di
 
 # MAPS AND CROSS SECTIONS!
 
-To dive into this, we need some data! You can go to this DATA DOWNLOAD page to grab files for this workshop. Further resources will be listed at the end of the tutorial.
+First of all, we need to pick a particular location to investigate. Because I'm familiar with it, I'm going to introduce you to the landscape near the National Center for Atmospheric Research (NCAR) in Boulder, CO USA. There are iconic geologic shapes in this area known as the Flatirons. We're going to look at a bit of the world that's a bit south of these often photographed mountains:
+
+[Boulder Flatirons](images/)
+Boulder Flatirons by Paul [CC by SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
+To dive into this, we need to load our data!
+
+*Resources for finding this kind of information for other areas are listed at the end of the tutorial.*
+
+
 ## Part III: Geologic Maps in QGIS
 ![QGIS logo](images/qgis-icon_mini.png)
 
