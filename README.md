@@ -143,7 +143,7 @@ First of all, we need to pick a particular location to investigate. Because I'm 
 ![Boulder Flatirons](images/640x_BoulderFlatirons_PH.jpg)
 Boulder Flatirons by Paulhaberstroh [CC by SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-To dive into making geologic maps of this area, we need to load our data!
+To dive into making a basic geologic map of this area, we need the information structural geologists have collected by examining the surface exposures of the rocks. We'll then take that information and combine it with elevation data and construct our best guess of what these rocks look like in a profile view or a "cross section."
 
 *Resources for finding this kind of information for other areas are listed at the end of the tutorial.*
 
@@ -158,6 +158,8 @@ To dive into making geologic maps of this area, we need to load our data!
 - labeling
 - discuss DEM
 - create contours raster extract 10m
+
+## Part IV Geologic Cross Section with qProf Plugin
 - 
 
 
