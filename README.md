@@ -14,7 +14,10 @@ Have you ever been curious about how the rock formations you see when you’re h
 Please consider donating to these organizations!
 
 ## Data for tutorial:
-You can 
+You can retrieve the files you need for this tutorial from this [dropbox page](https://www.dropbox.com/sh/fth75xanut760i3/AACtcFVLZ_zMq9NBN5mNb9fRa?dl=0). You'll find:
+- geospatial data
+- geologic symbology
+- georeferenced geologic maps (these large files are not necessary, but they can be useful for visualization)
 
 ## What this tutorial will cover:
 
