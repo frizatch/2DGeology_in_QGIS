@@ -311,7 +311,9 @@ If you're like me and left just the contour showing, it's now time to turn on ou
 
 Here, we're going to load a style layer to connect to the "RockType" field in our data. This is tricky because some geologic knowledge is required to give this a decent shot. Just know that every field site is unique and not everything is going to match up to this particular styling file, but this is a great start.
 
-![Loading Styling File](images/LoadingLithclasse_scaled.png)
+![Loading Styling File](images/LoadStyle.png)
+
+![Loading lithology classes](images/LoadingLithclass_scaled.png)
 
 Yes, there are quite a few options for classiying rocks:
 
