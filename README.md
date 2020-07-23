@@ -299,7 +299,7 @@ Instead of "Single Symbol" at the very top, we'll used "Categorized" here to sho
 
 After you click Classify, you'll see three categories show up with one being a catch-all if there is unclassified data. By clicking directly on the colored lines, you'll get a Symbol Selector window. Change the color to black and the width to .66 for the surface category. For subsurface, do the same but pick a dashed line.
 
-![line symbol menu[(images/LineSymbolSimple)
+![line symbol menu](images/LineSymbolSimple)
 
 HINT: you can also change the color of your contours by double-clicking on their color bar in the Layers Panel to open the Symbology menu.
 
