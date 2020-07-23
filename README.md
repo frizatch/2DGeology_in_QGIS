@@ -153,14 +153,15 @@ Data
  - Fault lines (KellogFaults_AOI.geojson)
  - Geologic formation surface exposures (KellogGeolPoly_AOI_rocktype.geojson)
  - Transect (transect_NCARTrail.geojson)
+ - Photo Locations (NCARTrail_PhotoLoc.geojson)
  
-GeologicMaps
+GeologicMaps - Retrieved from the [National Geologic Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
  - Kellog
  - Wells
  
 GeologicSymbology
  - Rock type styling (lithclass.qml)
- - Surficial geologic symbols (.zip file)
+ - Subset of geologic symbols (.zip file)
 
 *Resources for finding this kind of information for other areas are listed at the end of the tutorial.*
 
@@ -168,11 +169,15 @@ GeologicSymbology
 ## Part III: Geologic Maps in QGIS
 ![QGIS logo](images/qgis-icon_mini.png)
 
-# Open QGIS
+### Open QGIS
 
-# Projection
+### Projection = EPSG: 26913
 
-# Load Data
+### Add Plugins
+- Quick Map Services
+- qProf
+
+### Load Data
 
 
 
