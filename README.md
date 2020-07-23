@@ -319,9 +319,11 @@ Yes, there are quite a few options for classiying rocks:
 
 ![rock type color symbologies](images/Lithclasses_scaled.png)
 
+Rock formations have short-hand abbreviations based on their ages that can be used to label the outcrops on the map. Go to the small abc icon in the toolbar and turn on the Labeling Panel. If you don't see this icon, go to "View" in the dropdown menus, select "Toolbars" way down at the bottom and make sure the "Label toolbar" is toogled on.
+
 Now we have a bonified geologic map! To put on the finishing touches, you would open a "New Print Layout" to add such things as a title, scalebar and geologic key. I will leave that to other tutorials. There are many out there!
 
-![geologic map](images/GeologyDone.png)
+![geologic map](images/GeologyDoneWithLabels.png)
 
 ### Photos
 
@@ -366,6 +368,26 @@ Click okay and you'll have an elevation profile!:
 ![red line profile](images/InitialProfile_scaled.png)
 
 If you click and drag it around, you can stretch it to an aspect that you like.
+
+### Pinning Geologic Information to Profile
+
+The "Geology" tab in the qProf panel provides the tools to attach our geologic information from our map to the elevation profile. There are four different options, but we'll only use three of them for the data we have:
+- Project geological attitudes
+- (Project geological traces)
+- Intersect line layer
+- Intersect polygon layer
+
+The attitudes are our strike and dip information. Make sure your window looks like the following with the strike and dip layer selected for our input. We want to select the RHR (right hand rule) option to have our data make sense:
+
+![attitudes inputs](images/GeologicalAttitudes_scaled.png)
+
+Click "Plot" at the bottom and you'll see a profile with the points of our data pinned to it. If you want to have the text information transferred to the profile, you can have the labels for "or./dip" toggled on.
+
+![profile with dip symbols](images/ProfileWithStrikeDip_scaled.png)
+
+Next, expand the options for intersection the line layer by clicking on that title. You'll pick the faults .geojson as the layer here, and maybe change the color to black.
+
+Lastly, we'll attach the outcrop information to our transect by intersection that polygon layer with our profile. Pick the polygon layer, then change the "Classification field" to "LABEL" and click "Intersect." You'll have an option to pick colors that get projected onto your profile and you want to make sure these match the style we have on the map.
 
 
 
