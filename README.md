@@ -319,7 +319,7 @@ Yes, there are quite a few options for classiying rocks:
 
 ![rock type color symbologies](images/Lithclasses_scaled.png)
 
-Now we have a bonified geologic map!
+Now we have a bonified geologic map! To put on the finishing touches, you would open a "New Print Layout" to add such things as a title, scalebar and geologic key. I will leave that to other tutorials. There are many out there!
 
 ![geologic map](images/GeologyDone.png)
 
@@ -331,19 +331,31 @@ What does this place look like? For fun and context, I stuck in a .geojson file 
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## Part IV Geologic Cross Section with qProf Plugin
-- 
 
+We've made a representation of what our outcrops look like on the surface, but how do we take this information to construct a side view or a cross section of the geology?
+
+### Transect
+
+The first thing we want to do is determine a line, or transect, along where we want to "cut" down into the earth. Often, this happens in real life when road construction goes through a ridge and exposes the rocks in a "roadcut."  The images at the top of this tutorial are linked by a line on the geologic map from B to B' showing where the cross section was constructed. I have provided a line for you that goes along the NCAR trail:
+
+![transect line on map](images/TransectLine_scaled.png)
+
+### Elevation Profile
+
+Let's access the qProf plugin. You can find it in the Plugins dropdown menu at the top:
+
+![qProf location](images/qProfLocation_scaled.png)
+
+A new qProf panel will appear in your working space that has a number of tabs to pick from. We'll leave it on the default "Topology" tab for now:
+
+![Gooey with new plugin](images/GUIwqProf.png)
+
+Untick the "Set vertical exaggeration" box, but leave the other defaults. Click okay and you'll have an elevation profile!:
+
+![red line profile](images/InitialProfile_scaled.png)
+
+If you click and drag it around, you can stretch it to an aspect that you like.
 
 ## Resources
 Maps and (maybe) GIS data
