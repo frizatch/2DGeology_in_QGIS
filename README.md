@@ -1,4 +1,5 @@
-# Geologic Maps and Cross Sections in QGIS
+![Geologic Maps and Cross Sections in QGIS](images/banner_choice02.png)
+!
 Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for students and hobbyists
 
 Have you ever been curious about how the rock formations you see when you’re hiking through a varying landscape look underground? This workshop will give you an introduction to satisfying that curiosity with QGIS!
