@@ -415,15 +415,24 @@ HINT: if you don't use a pathname, your figure will land in the folder with your
 
 
 ## Resources
-Maps and (maybe) GIS data
-- [national geologic map database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
+*Maps and (maybe) GIS data*
+[National Geologic Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
  
-     [Kellog 2008 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_84408.htm)
+   - [Kellog 2008 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_84408.htm)
 
-     [Wells 1967 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_21289.htm)
+   - [Wells 1967 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_21289.htm)
+   
+[Colorado Geologic Survey](https://coloradogeologicalsurvey.org/gis-data-map-portal/)
 
+Look for similar state geologic survey office's websites!
 
-Geologic Symbology
+[Canada Geologic Survey](https://www.nrcan.gc.ca/science-data/science-research/earth-sciences/geography/topographic-information/10785)
+
+[Servecio Geologico Mexicano](https://www.gob.mx/sgm)
+
+Google around for your country of interest with "Geological survey" and "GIS data" and you'll turn something up!
+
+*Geologic Symbology*
 - Geologic symbols: [.svg library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Richard Langford created from USGS pdfs. Here's his [website](http://www.richardlangford.com/).
 - FGDC standards for [geologic symbology](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php)
 
