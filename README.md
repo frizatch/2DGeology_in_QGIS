@@ -183,7 +183,7 @@ Note in the lower righthand corner you'll see EPSG 4326 (WGS 84) is the default 
 
 I have reprojected all of our data layers to be in EPSG 26913, so let's go ahead and adjust the CRS of the project:
 
-![Project projection menu](images/ProjectProperties_scaled.png)
+![Project projection menu](images/ProjectProperties.png)
 
 ![Project projection](images/ProjectProjection26913_scaled.png)
 
