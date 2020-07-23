@@ -351,11 +351,23 @@ A new qProf panel will appear in your working space that has a number of tabs to
 
 ![Gooey with new plugin](images/GUIwqProf.png)
 
-Untick the "Set vertical exaggeration" box, but leave the other defaults. Click okay and you'll have an elevation profile!:
+Going down the options under the Topology tab, pick our DEM after clicking "Define source DEMs". You'll see other rasters, like the OSM basemap, appear in the options, but we want the file with the elevation data.
+
+Next, determine the transect information. You can hand draw any line (even one that isnt' straight!) on the map, but we're going to use the pre-built .geojson for the NCAR trail:
+
+![Selecting line](images/PickingLineInput_scaled.png)
+
+Continue down the options and click "Read source data", "Calculate profile statistics" and finally "Create topographic profile." Close the first two pop-up boxes after reading them. In the third, untick the "Set vertical exaggeration" box, but leave the other defaults.
+
+![create profile dialog](images/TopoParameters_scaled.png)
+
+Click okay and you'll have an elevation profile!:
 
 ![red line profile](images/InitialProfile_scaled.png)
 
 If you click and drag it around, you can stretch it to an aspect that you like.
+
+
 
 ## Resources
 Maps and (maybe) GIS data
