@@ -307,6 +307,24 @@ If you're like me and left just the contour showing, it's now time to turn on ou
 
 Here, we're going to load a style layer to connect to the "RockType" field in our data. This is tricky because some geologic knowledge is required to give this a decent shot. Just know that every field site is unique and not everything is going to match up to this particular styling file, but this is a great start.
 
+![Loading Styling File](images/LoadingLithclasses.png)
+
+Yes, there are quite a few options for classiying rocks:
+
+![rock type color symbologies](images/Lithclasses_scaled.png)
+
+Now we have a bonified geologic map!
+
+![geologic map](images/GeologyDone.png)
+
+### Photos
+
+What does this place look like? For fun and context, I stuck in a .geojson file that merely plots the two points where these pictures were taken. You can get a bit of the on-the-ground sense of the rock outcrops by looking at these and comparing them to the geologic information on our map.
+
+![Picture of Dakota Formation](images/Dakota_scaled) ![Picture of Morrison contact](images/Morrison_scaled)
+
+
+
 
 
 
