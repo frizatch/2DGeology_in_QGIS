@@ -441,4 +441,7 @@ Google around for your country of interest with "Geological survey" and "GIS dat
 ### Elevation Data
 - [Shuttle Radar Topography Mission (SRTM)](https://gisgeography.com/srtm-shuttle-radar-topography-mission/)
 
-- [JAXA](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/- USGS 3Dep)
+- [JAXA](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/)
+
+- [USGS 3Dep](https://nationalmap.gov/preview/3DEP/index.html)
+
