@@ -210,6 +210,8 @@ An alternate way to load data, especially when it's all in one location as it is
 
 Right now, your QGIS interface should look a bit like this (the 
 
+![Gooey with loaded layers](images/GUIwLoadedLayers.png)
+
 Now is a GREAT time to save your project and give it a name.
 
 ### Add Plugins
