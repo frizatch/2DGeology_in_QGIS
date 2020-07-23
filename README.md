@@ -176,7 +176,7 @@ GeologicSymbology
 
 When you first open the software, you might see other projects that you've worked on before. Just select "New Project" and you'll see a GUI like this:
 
-![QGIS Gooey](images/OpenQGIS_EPSG4326.JPG)
+![QGIS Gooey](images/OpenQGIS_EPSG4326.png)
 
 Note in the lower righthand corner you'll see EPSG 4326 (WGS 84) is the default coordinate reference system (CRS).
 
