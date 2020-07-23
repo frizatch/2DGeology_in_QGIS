@@ -14,7 +14,9 @@ Have you ever been curious about how the rock formations you see when you’re h
 Please consider donating to these organizations!
 
 ## Data for tutorial:
-You can retrieve the files you need for this tutorial from this [dropbox page](https://www.dropbox.com/sh/fth75xanut760i3/AACtcFVLZ_zMq9NBN5mNb9fRa?dl=0). You'll find:
+You can retrieve the files you need for this tutorial from this [dropbox page](https://www.dropbox.com/sh/fth75xanut760i3/AACtcFVLZ_zMq9NBN5mNb9fRa?dl=0).
+
+You'll find:
 - geospatial data
 - geologic symbology
 - georeferenced geologic maps (these large files are not necessary, but they can be useful for visualization)
@@ -196,7 +198,9 @@ Click on the Open Data Source Manager ![Add data icon](images/AddData.png) butto
 
 ![](images/AddingVectorData_scaled.png)
 
-Click "Add" then "Close" and you'll see a bunch of layers appear in your Layers Panel with colors automatically assigned to them.
+Click "Add" then "Close" and you'll see a bunch of layers appear in your Layers Panel with colors automatically assigned to them. Don't worry if you don't see everything. It's probable that the polygon layer is hiding other layers.
+
+![Gooey with loaded vector layers](images/GUIwVectorLayers.png)
 
 Now, let's load the raster data!
 
@@ -208,9 +212,9 @@ An alternate way to load data, especially when it's all in one location as it is
 
 ![browser panel](images/BrowserPanel_scaled.png)
 
-Right now, your QGIS interface should look a bit like this (the 
+Right now, your QGIS interface should look a bit like this (the DEM will be covering the vector layers, but we'll fix that):
 
-![Gooey with loaded layers](images/GUIwLoadedLayers.png)
+![Gooey showing D E M](images/GUIwLoadedLayers.png)
 
 Now is a GREAT time to save your project and give it a name.
 
@@ -220,9 +224,28 @@ There are two plugins I suggest snagging for this tutorial:
 - Quick Map Services - Allows you to load a basemap so you can have a visual reference!
 - qProf - Used for constructing elevation profiles and pinning data for intrpreting cross sections
 
-We'll leave qProf until later, but for right now, let's turn on the OSM standard basemap so we can see where our data is located. Notice the NCAR building and the trail that heads west from it:
+Go to the top dropdown menu, find "Plugins" and select "Manage and Install Plugins..." You'll get a window that gives you a candystore of functionality various developers have contributed to QGIS. Find the two plugins mentioned above with the search bar or scrolling down the list. Select them one at a time and click "Install Plugin." My interface looks a bit different because I already have them loaded:
+
+![Plugin menu[(images/PluginMenu_scaled)
+
+We'll leave qProf until later, but for right now, let's use QuickMapServices to turn on the OSM standard basemap so we can see where our data is located. This plugin now lives under the "Web" dropdown menu because it doesn't load a layer, it reaches out to web services and renders a basemap for you:
+
+![Quick Map Services dropdown menus](images/QuickMapServices_scaled.png)
+
+To see the OSM basemap (it automatically loads at the bottom), uncheck the other layers in the Layers Panel. This gives us a good sense of our area of interest or AOI:
+
+![O S M basemap](images/GUIwOSM.png)
+
+Notice the NCAR building and the trail that heads west from it to Dinosaur Mountain. Some of the data we'll be looking at was gathered along this trail.
 
 ### Explore Data
+
+Take some time to understand the data. Click the layers back on and click+hold and drag them to reorder them. Most importantly, open the attribute tables to see what information is attached to the shapes you see! You can do this by right-clicking on the layer itself to expose another menu and select "Open Attribute Table."
+
+HINT: this menu also contains a "Zoom to Layer" option at the top which is invaluable if you accidently move around in your map and lose your spot!
+
+![Finding attribute table](images/OpeningAttributeTable_scaled.png)
+
 
 
 
