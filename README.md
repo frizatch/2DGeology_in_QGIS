@@ -438,3 +438,7 @@ Google around for your country of interest with "Geological survey" and "GIS dat
 - Geologic symbols: [.svg library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Richard Langford created from USGS pdfs. Here's his [website](http://www.richardlangford.com/).
 - FGDC standards for [geologic symbology](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php)
 
+### Elevation Data
+- [Shuttle Radar Topography Mission (SRTM)](https://gisgeography.com/srtm-shuttle-radar-topography-mission/)
+
+- [JAXA](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/- USGS 3Dep)
