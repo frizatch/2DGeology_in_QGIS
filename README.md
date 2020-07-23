@@ -287,7 +287,25 @@ Go back to the layer's properties. We'll use these fields to show more informati
 
 ![Rotating symbol option](images/UsingAzimuthField.png)
 
-Next, find the little abc icon in the Labeling toolbar. Open the labeling dialog and pick "Single Labels" and use the DIP field for the label so we can see the angle information.
+Then, find the little abc icon in the Labeling toolbar. Open the labeling dialog and pick "Single Labels" and use the DIP field for the label so we can see the angle information.
+
+Next up are the faults. We're going to cheat and just use some basic line symbols that approximate the official USGS fault symbols.
+
+Rigth click on the faults layer and open up its "Properties..." option. Make sure you're looking at the Symbology tab.
+
+Instead of "Single Symbol" at the very top, we'll used "Categorized" here to show the difference between faults that are exposed on the surface and ones that are hidden by debris flows or other recent sediments. Use the field called "Exposure" for the value and then click the Classify button in the lower left.
+
+After you click Classify, you'll see three categories show up with one being a catch-all if there is unclassified data. By clicking directly on the colored lines, you'll get a Symbol Selector window. Change the color to black and the width to .66 for the surface category. For subsurface, so the same but pick a dashed line.
+
+HINT: you can also change the color of your contours by double-clicking on their color bar in the Layers Panel to open the Symbology menu.
+
+Now we have our surface information showing on our map!
+
+![map showing surface measurements](images/SurfaceGeologyDone.png)
+
+If you're like me and left just the contour showing, it's now time to turn on our polygon layer of outcrops so we can match it to a style file.
+
+Here, we're going to load a style layer to connect to the "RockType" field in our data. This is tricky because some geologic knowledge is required to give this a decent shot. Just know that every field site is unique and not everything is going to match up to this particular styling file, but this is a great start.
 
 
 
@@ -298,16 +316,6 @@ Next, find the little abc icon in the Labeling toolbar. Open the labeling dialog
 
 
 
-
-
-
-- load layers
-- explore (vector data and raster GeoTIFFS)
-- plugin(s) need qprof, quickmapservices is nice for OSM reference layer, not necessary
-- Symbolizing - do structures THEN geolpoly
-- labeling
-- discuss DEM
-- create contours raster extract 10m
 
 ## Part IV Geologic Cross Section with qProf Plugin
 - 
