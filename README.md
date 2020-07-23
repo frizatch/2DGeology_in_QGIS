@@ -157,7 +157,6 @@ Data
  - Geologic formation surface exposures (KellogGeolPoly_AOI_rocktype.geojson)
  - Transect (transect_NCARTrail.geojson)
  - Photo Locations (NCARTrail_PhotoLoc.geojson)
- -
  
 GeologicMaps - Retrieved from the [National Geologic Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
  - Kellog
@@ -191,12 +190,15 @@ I have reprojected all of our data layers to be in EPSG 26913, so let's go ahead
 
 ### Load Data
 
-Click on the _____ button > Vector > load the .geojson files from the folder.
+Let's load the vector data!
+
+Click on the ![Add data icon](images/AddData.png) button > Vector > load the .geojson files from the folder.
 
 RAster > load the .tif file, which is our elevation raster.
 
+Loading the georeferenced geologic maps is optional. You may have skipped downloading these if you don't have a powerful computer. If you do load them, one trick to make rendering faster is to keep these layers turned off while you're working and only turn them on for reference when needed.
 
-Loading the georeferenced geologic maps is optional. You may want to skip loading these if you don't have a powerful computer. One trick to make rendering faster is to keep these layers turned off while you're working and only turn them on for reference.
+An alternate way to load data, especially when it's all in one location as it is in this case, is to make sure your Browser Panel is open, navigate to the files using the expanding arrows, then merely drag the files over to the Layers Panel.
 
 ### Add Plugins
 
@@ -204,7 +206,7 @@ There are two plugins I suggest snagging for this tutorial:
 - Quick Map Services - Allows you to load a basemap so you can have a visual reference!
 - qProf - Used for constructing elevation profiles and pinning data for intrpreting cross sections
 
-We'll leave qProf until later, but for right now, let's turn on the OSM standard basemap so we can see where our data is located.
+We'll leave qProf until later, but for right now, let's turn on the OSM standard basemap so we can see where our data is located. Notice the NCAR building and the trail that heads west from it:
 
 ### Explore Data
 
