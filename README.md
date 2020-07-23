@@ -149,11 +149,13 @@ To dive into making a basic geologic map of this area, we need the information s
 You should see three different folders of files in the [dropbox link](https://www.dropbox.com/sh/fth75xanut760i3/AACtcFVLZ_zMq9NBN5mNb9fRa?dl=0)
 
 Data
+ - Digital Elevation Model or DEM (USGS_13_n40w106_NAD83Z13)
  - Surface Measurements (StrikeDipMeasures.geojson)
  - Fault lines (KellogFaults_AOI.geojson)
  - Geologic formation surface exposures (KellogGeolPoly_AOI_rocktype.geojson)
  - Transect (transect_NCARTrail.geojson)
  - Photo Locations (NCARTrail_PhotoLoc.geojson)
+ -
  
 GeologicMaps - Retrieved from the [National Geologic Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
  - Kellog
@@ -171,13 +173,25 @@ GeologicSymbology
 
 ### Open QGIS
 
-### Projection = EPSG: 26913
+When you first open the software, you might see other projects that you've worked on before. Just select "New Project" and you'll see a GUI like this:
 
-### Add Plugins
-- Quick Map Services
-- qProf
+![QGIS Gooey](images/OpenQGIS_EPSG4326.JPG)
+
+Note in the lower righthand corner you'll see EPSG 4326 (WGS 84) is the default coordinate reference system (CRS).
+
+### CRS = EPSG: 26913
+
+I have reprojected all of our data layers to be in EPSG 26913, so let's go ahead and adjust the CRS of the project:
 
 ### Load Data
+
+### Add Plugins
+
+There are two plugins I suggest snagging for this tutorial:
+- Quick Map Services - not necessary, but allows you to load a basemap so you can have a visual reference!
+- qProf - We'll use this for constructing our cross section
+
+
 
 
 
