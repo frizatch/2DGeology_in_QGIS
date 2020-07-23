@@ -192,9 +192,13 @@ I have reprojected all of our data layers to be in EPSG 26913, so let's go ahead
 
 Let's load the vector data!
 
-Click on the ![Add data icon](images/AddData.png) button > Vector > load the .geojson files from the folder.
+Click on the Open Data Source Manager ![Add data icon](images/AddData.png) button. Make sure you select "Vector" on the side and that the "File" option is picked. You can then navigate to your data folder via the 3 little dots and select all of the .geojson files. HINT: You can select them all at once with the shift key.
 
-RAster > load the .tif file, which is our elevation raster.
+![](images/AddingVectorData_scaled.png)
+
+Let's load the raster data!
+
+This time, after clicking on the Open Data Source Manager, select "Raster" on the side instead of "Vector" and navigate to the digital elevation .tif file (it's labeled with lat and lon references). You can also load the geologic map .tif files the same way if you grabbed them.
 
 Loading the georeferenced geologic maps is optional. You may have skipped downloading these if you don't have a powerful computer. If you do load them, one trick to make rendering faster is to keep these layers turned off while you're working and only turn them on for reference when needed.
 
