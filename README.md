@@ -196,13 +196,21 @@ Click on the Open Data Source Manager ![Add data icon](images/AddData.png) butto
 
 ![](images/AddingVectorData_scaled.png)
 
-Let's load the raster data!
+Click "Add" then "Close" and you'll see a bunch of layers appear in your Layers Panel with colors automatically assigned to them.
+
+Now, let's load the raster data!
 
 This time, after clicking on the Open Data Source Manager, select "Raster" on the side instead of "Vector" and navigate to the digital elevation .tif file (it's labeled with lat and lon references). You can also load the geologic map .tif files the same way if you grabbed them.
 
 Loading the georeferenced geologic maps is optional. You may have skipped downloading these if you don't have a powerful computer. If you do load them, one trick to make rendering faster is to keep these layers turned off while you're working and only turn them on for reference when needed.
 
 An alternate way to load data, especially when it's all in one location as it is in this case, is to make sure your Browser Panel is open, navigate to the files using the expanding arrows, then merely drag the files over to the Layers Panel.
+
+![browser panel](images/BrowserPanel_scaled.png)
+
+Right now, your QGIS interface should look a bit like this (the 
+
+Now is a GREAT time to save your project and give it a name.
 
 ### Add Plugins
 
