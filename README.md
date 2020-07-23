@@ -180,7 +180,7 @@ When you first open the software, you might see other projects that you've worke
 
 ![QGIS Gooey](images/OpenQGIS_EPSG4326.png)
 
-Note in the lower righthand corner you'll see EPSG 4326 (WGS 84) is the default coordinate reference system (CRS).
+Note in the lower righthand corner you'll see EPSG 4326 is the default coordinate reference system (CRS).
 
 ### CRS = EPSG: 26913
 
@@ -226,7 +226,7 @@ There are two plugins I suggest snagging for this tutorial:
 
 Go to the top dropdown menu, find "Plugins" and select "Manage and Install Plugins..." You'll get a window that gives you a candystore of functionality various developers have contributed to QGIS. Find the two plugins mentioned above with the search bar or scrolling down the list. Select them one at a time and click "Install Plugin." My interface looks a bit different because I already have them loaded:
 
-![Plugin menu](images/PluginMenu_scaled)
+![Plugin menu](images/PluginMenu_scaled.png)
 
 We'll leave qProf until later, but for right now, let's use QuickMapServices to turn on the OSM standard basemap so we can see where our data is located. This plugin now lives under the "Web" dropdown menu because it doesn't load a layer, it reaches out to web services and renders a basemap for you:
 
@@ -289,13 +289,17 @@ Go back to the layer's properties. We'll use these fields to show more informati
 
 Then, find the little abc icon in the Labeling toolbar. Open the labeling dialog and pick "Single Labels" and use the DIP field for the label so we can see the angle information.
 
+![Labeling Dips](images/LabelingWithDip.png)
+
 Next up are the faults. We're going to cheat and just use some basic line symbols that approximate the official USGS fault symbols.
 
-Rigth click on the faults layer and open up its "Properties..." option. Make sure you're looking at the Symbology tab.
+Right click on the faults layer and open up its "Properties..." option. Make sure you're looking at the Symbology tab.
 
 Instead of "Single Symbol" at the very top, we'll used "Categorized" here to show the difference between faults that are exposed on the surface and ones that are hidden by debris flows or other recent sediments. Use the field called "Exposure" for the value and then click the Classify button in the lower left.
 
-After you click Classify, you'll see three categories show up with one being a catch-all if there is unclassified data. By clicking directly on the colored lines, you'll get a Symbol Selector window. Change the color to black and the width to .66 for the surface category. For subsurface, so the same but pick a dashed line.
+After you click Classify, you'll see three categories show up with one being a catch-all if there is unclassified data. By clicking directly on the colored lines, you'll get a Symbol Selector window. Change the color to black and the width to .66 for the surface category. For subsurface, do the same but pick a dashed line.
+
+![line symbol menu[(images/LineSymbolSimple)
 
 HINT: you can also change the color of your contours by double-clicking on their color bar in the Layers Panel to open the Symbology menu.
 
