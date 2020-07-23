@@ -165,8 +165,8 @@ GeologicMaps - Retrieved from the [National Geologic Map Database](https://ngmdb
  - Wells
  
 GeologicSymbology
- - Rock type styling (lithclass.qml)
- - Subset of geologic symbols (.zip file)
+ - Rock type styling (lithclass.qml from the [USGS for state symbology](https://mrdata.usgs.gov/geology/state/qml_help.html))
+ - Geologic symbols (.zip file subset of Dr. Lanford's pdf -> svg work)
 
 *Resources for finding this kind of information for other areas are listed at the end of the tutorial.*
 
