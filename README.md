@@ -275,7 +275,7 @@ Starting with the surface measurements, or our strike & dip information, we'll w
 
 Go to the StrikeDipMeasures layer and right click on it. In the menu that appears, pick "Properties..." at the bottom to see the following window:
 
-![simple marker symbology window](images/SymbolobyMenuForPoints.png)
+![simple marker symbology window](images/SymbologyMenuForPoints.png)
 
 Next, click on "Simple Marker" and you'll see the options change a bit. Under "Symbol layer type," select SVG marker in the dropdown. To find our file to load, we'll need to scroll down until we see the 3-little-dots button below the example icons. Click on that button and navigate to load 6.02_bdg_incld.svg. If you can't find it, you may need to make sure the GeologyStructureSymbols folder is unzipped.
 
@@ -321,7 +321,7 @@ Now we have a bonified geologic map!
 
 What does this place look like? For fun and context, I stuck in a .geojson file that merely plots the two points where these pictures were taken. You can get a bit of the on-the-ground sense of the rock outcrops by looking at these and comparing them to the geologic information on our map.
 
-![Picture of Dakota Formation](images/Dakota_scaled) ![Picture of Morrison contact](images/Morrison_scaled)
+![Picture of Dakota Formation](images/Dakota_scaled.JPG) ![Picture of Morrison contact](images/Morrison_scaled.JPG)
 
 
 
