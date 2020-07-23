@@ -226,7 +226,7 @@ There are two plugins I suggest snagging for this tutorial:
 
 Go to the top dropdown menu, find "Plugins" and select "Manage and Install Plugins..." You'll get a window that gives you a candystore of functionality various developers have contributed to QGIS. Find the two plugins mentioned above with the search bar or scrolling down the list. Select them one at a time and click "Install Plugin." My interface looks a bit different because I already have them loaded:
 
-![Plugin menu](images/PluginMenu_scaled.png)
+![Plugin menu](images/PluginsMenu.png)
 
 We'll leave qProf until later, but for right now, let's use QuickMapServices to turn on the OSM standard basemap so we can see where our data is located. This plugin now lives under the "Web" dropdown menu because it doesn't load a layer, it reaches out to web services and renders a basemap for you:
 
@@ -323,7 +323,7 @@ Now we have a bonified geologic map!
 
 ### Photos
 
-What does this place look like? For fun and context, I stuck in a .geojson file that merely plots the two points where these pictures were taken. You can get a bit of the on-the-ground sense of the rock outcrops by looking at these and comparing them to the geologic information on our map.
+What does this place look like? For fun and context, I stuck in a .geojson file that merely plots the two points where these pictures were taken. You can get a bit of the on-the-ground sense of the rock outcrops by looking at these and comparing them to the geologic information on our map. The first image is of the Dakota Formation showing beds where it's easy to measure strike and dip. The second image is looking towards the Flatirons (made of the Fountain Formation) while standing in the area of the Morrison and Lykins contact.
 
 ![Picture of Dakota Formation](images/Dakota_scaled.JPG) ![Picture of Morrison contact](images/Morrison_scaled.JPG)
 
