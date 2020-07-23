@@ -97,7 +97,7 @@ The rock cycle happens over times that we have a hard time imagining. For refere
 
 ## Part II: Structures
 
-When sedimetary layers are deposited, they are put down in flat layers. After the layers are changed into rock, all sorts of forces can then act on them to deform the orientation of these sedimentary rocks. Some of the more simplistic terms and structures are:
+We'll be focusing on sedimentary rocks for this discussion. When sedimetary layers are deposited, they are put down in flat layers. After the layers are changed into rock, all sorts of forces can then act on them to deform the orientation of these sedimentary rocks. Some of the more simplistic terms and structures are:
 
 - Dip = When a sedimentary bed is tilted, dip describes how many degrees it has shifted from horizontal in a particular location
 
@@ -134,7 +134,7 @@ The black lines and symbols you see scattered on geologic maps are a short-hand 
 
 There is also an amazing source of .svg files of the point symbols used in geologic maps created by Dr. Richard Langford, a geologic consultant living in Tasmania.  Some of these symbols are included in the data folder for this tutorial.
 
-The blobs of color with different etch patterns show the surface exposures of different kinds of rocks, often with their ages wrt the Geologic Time Scale. Refer to the individual legends of each geologic map for more information.
+The blobs of color you see on geologic maps show the surface exposures of different kinds of rocks, often with their ages wrt the Geologic Time Scale. Refer to the individual legends of each specific geologic map for more information as these colors and patterns can vary some. We'll explore more why this is when we symbolize our data.
 
 # MAPS AND CROSS SECTIONS!
 
@@ -144,9 +144,11 @@ First of all, we need to pick a particular location to investigate. Because I'm 
 
 Boulder Flatirons by Paulhaberstroh [CC by SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-To dive into making a basic geologic map of this area, we need the information structural geologists have collected by examining the surface exposures of the rocks. We'll then take that information and combine it with elevation data and construct our best guess of what these rocks look like in a profile view or a "cross section."
+To dive into making a basic geologic map of this area, we need the information structural geologists have collected by examining the surface exposures of the rocks. We'll then take that information and combine it with elevation data to construct our best interpretation of what these rocks look like in a profile view or a "cross section."
 
-You should see three different folders of files in the [dropbox link](https://www.dropbox.com/sh/fth75xanut760i3/AACtcFVLZ_zMq9NBN5mNb9fRa?dl=0)
+You should see three different folders of files in the [dropbox link](https://www.dropbox.com/sh/fth75xanut760i3/AACtcFVLZ_zMq9NBN5mNb9fRa?dl=0) also shared at the top of the tutorial. To get everything listed below, just click on the "Download" button in the upper right and all the contents will come as a .zip file. Please note that you'll have to unzip the file called QGISNA2020_GeologyWorkshop in a location on your local computer where you want to keep your data. There is also a sub-.zip file for the geologic symbols that needs to be unzipped.
+
+If you're worried about large files, you can skip downloading the geologic maps and download just the Data and GeologicSymbology folders by clicking down one more layer on dropbox.
 
 Data
  - Digital Elevation Model or DEM (USGS_13_n40w106_NAD83Z13)
