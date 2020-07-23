@@ -246,6 +246,56 @@ HINT: this menu also contains a "Zoom to Layer" option at the top which is inval
 
 ![Finding attribute table](images/OpeningAttributeTable_scaled.png)
 
+Turn off all the vector layers, and leave the USGS_13_n40w106_3depAOI.tif layer visible. You'll have noticed it didn't have an "Open Attribute Table" option because it's a different kind of data. The pixels that make up this raster hold elevation values, with the default lighter colors representing higher elevations. We're not going to use this layer for cartography, but we'll use it for creating our profile.
+
+### Contour generation
+
+To get a better sense of what this DEM means, let's generate contour lines from the raster. This can be helpful for those who are used to reading topographic maps.
+
+Go to the "Raster" dropdown menu at the top, pick "Extraction", then "Contour..." and make sure the DEM file is showing in the options at the top.
+
+![contour tool box](images/ContourTool_scaled.png)
+
+Leave all the defaults, but notice you can pick the contour interval you'd like. We're leaving it at 10m. After you click Run, you'll have a temporary file appear in your Layers Panel. If it's hidden behind the DEM, drag it higher.
+
+![D E M with contour lines on top](images/ContourLinesOnDEM.png)
+
+You can save this temporary layer to file if you'd like to keep it by right clicking on the layer and following the prompts under "Make Permanent."
+
+### Symbolizing data
+
+Now that we understand what data we have, let's make it look like a geologic map!
+
+We have three layers to adjust for our geologic information to be more clear:
+- Surface measurements
+- Fault Lines
+- Outcrops
+
+Starting with the surface measurements, or our strike & dip information, we'll want to bring in one of the .svg figures from the .zip file: 6.02_bdg_incld.svg. These files are scalar vector graphics files that can be imported to QGIS to symbolize point data. We'll only use this one file showing the strike and dip of an inclined sedimentary bed, but there are MANY.
+
+Go to the StrikeDipMeasures layer and right click on it. In the menu that appears, pick "Properties..." at the bottom to see the following window:
+
+![simple marker symbology window](images/SymbolobyMenuForPoints.png)
+
+Next, click on "Simple Marker" and you'll see the options change a bit. Under "Symbol layer type," select SVG marker in the dropdown. To find our file to load, we'll need to scroll down until we see the 3-little-dots button below the example icons. Click on that button and navigate to load 6.02_bdg_incld.svg. If you can't find it, you may need to make sure the GeologyStructureSymbols folder is unzipped.
+
+Change the width and heigth of the symbol to around 7 so it's visible. The default of 2 is too small. Go ahead and click okay to see how these look on your map. You should see a number of little T's show up that are all pointing to the east.
+
+How do we get these mirror the measurement information in the attributes? Remember, we have two values: strike (or Azimuth) and Dip to represent.
+
+Go back to the layer's properties. We'll use these fields to show more information on the map. AZIMUTH can be used to Rotate the symbol:
+
+![Rotating symbol option](images/UsingAzimuthField.png)
+
+Next, find the little abc icon in the Labeling toolbar. Open the labeling dialog and pick "Single Labels" and use the DIP field for the label so we can see the angle information.
+
+
+
+
+
+
+
+
 
 
 
