@@ -319,7 +319,9 @@ Yes, there are quite a few options for classiying rocks:
 
 ![rock type color symbologies](images/Lithclasses_scaled.png)
 
-Rock formations have short-hand abbreviations based on their ages that can be used to label the outcrops on the map. Go to the small abc icon in the toolbar and turn on the Labeling Panel. If you don't see this icon, go to "View" in the dropdown menus, select "Toolbars" way down at the bottom and make sure the "Label toolbar" is toogled on.
+Rock formations have short-hand abbreviations based on their ages that can be used to label the outcrops on the map. Go to the small abc icon in the toolbar and turn on the Labeling Panel. If you don't see this icon, go to "View" in the dropdown menus, select "Toolbars" way down at the bottom and make sure the "Label toolbar" is toggled on.
+
+![labeling polygons with label field](images/LabelingPolygons_scaled.png)
 
 Now we have a bonified geologic map! To put on the finishing touches, you would open a "New Print Layout" to add such things as a title, scalebar and geologic key. I will leave that to other tutorials. There are many out there!
 
@@ -369,6 +371,8 @@ Click okay and you'll have an elevation profile!:
 
 If you click and drag it around, you can stretch it to an aspect that you like.
 
+NOTE: this is temporary information and will only stay available as long as you have qProf open. You'll want to export information that you want to keep before closing the plugin's panel!
+
 ### Pinning Geologic Information to Profile
 
 The "Geology" tab in the qProf panel provides the tools to attach our geologic information from our map to the elevation profile. There are four different options, but we'll only use three of them for the data we have:
@@ -385,10 +389,29 @@ Click "Plot" at the bottom and you'll see a profile with the points of our data 
 
 ![profile with dip symbols](images/ProfileWithStrikeDip_scaled.png)
 
-Next, expand the options for intersection the line layer by clicking on that title. You'll pick the faults .geojson as the layer here, and maybe change the color to black.
+Next, expand the options for intersection the line layer by clicking on that title. You'll pick the faults .geojson as the layer here, and maybe add the Id field to bring over the fault name and change the color to black.
 
-Lastly, we'll attach the outcrop information to our transect by intersection that polygon layer with our profile. Pick the polygon layer, then change the "Classification field" to "LABEL" and click "Intersect." You'll have an option to pick colors that get projected onto your profile and you want to make sure these match the style we have on the map.
+Lastly, we'll attach the outcrop information to our transect by intersection that polygon layer with our profile. Pick the polygon layer, then change the "Classification field" to "LABEL" and click "Intersect." You'll have an option to pick colors that get projected onto your profile and you want to make sure these match the style we have on the map. You can do this easily with the "Pick Color" option. Grab the colors directly off your map display to match the labels such as "Kph."
 
+![Pick color choice](images/PickingColor_scaled.png)
+
+HINT: Mac is a little tricky here. Hover your cursor over the appropriate color on the map and hit the spacebar instead of clicking. The eyedropper picker seems to work fine on the PC across the whole screen.
+
+Your profile and nascent cross section will look like this beautiful jumbled mess:
+
+![messy profile](images/ProfileAllTheThings_scaled.png)
+
+Don't worry about all the overlapping and craziness. This is where our vector graphics editor, Inkscape, will save us!
+
+### Export Figure
+
+While still in qProf, let's create a graphics file to work with in Inkscape.
+
+After adjusting your profile to the aspect you want, go to the "Export" tab and click on "Figure." Adjust the size parametes as you'd like and give your file a pathname, a name, and an .svg ending.
+
+![export figure dialog](images/FigureExport_scaled.png)
+
+HINT: if you don't use a pathname, your figure will land in the folder with your applications. Pathnames can be copied on PCs from File Explorer Windows after clicking on the top bar to highlight the path. Pathnames on macs can be found by: Right click > Option (alt) HOLD > Copy pathname.
 
 
 ## Resources
