@@ -208,7 +208,7 @@ This time, after clicking on the Open Data Source Manager, select "Raster" on th
 
 Loading the georeferenced geologic maps is optional. You may have skipped downloading these if you don't have a powerful computer. If you do load them, one trick to make rendering faster is to keep these layers turned off while you're working and only turn them on for reference when needed.
 
-An alternate way to load data, especially when it's all in one location as it is in this case, is to make sure your Browser Panel is open, navigate to the files using the expanding arrows, then merely drag the files over to the Layers Panel.
+An alternate way to load data, especially when it's all in one location as it is in this case, is to make sure your Browser Panel is open, navigate to the files using the expanding arrows, then merely drag the files down to the Layers Panel.
 
 ![browser panel](images/BrowserPanel_scaled.png)
 
@@ -226,7 +226,7 @@ There are two plugins I suggest snagging for this tutorial:
 
 Go to the top dropdown menu, find "Plugins" and select "Manage and Install Plugins..." You'll get a window that gives you a candystore of functionality various developers have contributed to QGIS. Find the two plugins mentioned above with the search bar or scrolling down the list. Select them one at a time and click "Install Plugin." My interface looks a bit different because I already have them loaded:
 
-![Plugin menu[(images/PluginMenu_scaled)
+![Plugin menu](images/PluginMenu_scaled)
 
 We'll leave qProf until later, but for right now, let's use QuickMapServices to turn on the OSM standard basemap so we can see where our data is located. This plugin now lives under the "Web" dropdown menu because it doesn't load a layer, it reaches out to web services and renders a basemap for you:
 
