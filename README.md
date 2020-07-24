@@ -468,7 +468,13 @@ We can drop lines from our dip angles then move them to the contact boundaries a
 
 ![cross section guidelines](images/CrossSectionGuidelines_scaled.png)
 
-After getting some guidelines, we can then draw in our colored beds. The dip angles aren't parallel, so maybe our data isn't perfect or maybe the faults have caused some warping. Other interesting things to think about are the Quaternery deposits (debris and landslides) which are likely shallow and acting as a blanket on top of the rock formations underneath. Also, the rocks to the west (left in this case) are igneous, so drawing in an artistic curved line or even a question mark on the boundary between Yg and XgdB would be appropriate. Again
+After getting some guidelines, we can then draw in our colored beds by following along our guides and then matching our Fill and Stroke colors to the outcrop color:
+
+![eyedropper tool](images/InkscapeEyedropper.png)
+
+The is a lot of geology to think about. The dip angles aren't parallel, so maybe our data isn't perfect or maybe the faults have caused some warping. Other interesting things are the Quaternery deposits (debris and landslides) which are likely shallow and acting as a blanket on top of the rock formations underneath. We would draw this in as a layer of icing. Also, the rocks to the west (left in this case) are igneous, so drawing in an artistic curved line or even a question mark on the boundary between Yg and XgdB would be appropriate. Again, we're just building a model based on the information we have. It's a fun puzzle.
+
+![Cross section starting to fill in](images/CrossSectionDeveloping.png)
 
 
 
