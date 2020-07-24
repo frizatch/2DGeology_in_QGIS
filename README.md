@@ -454,17 +454,31 @@ The hard and fun part is to use the information we pinned to our profile to try 
 
 One rule of thumb we'll use, is assuming sedimentary beds are uniform in thickness unless you have data that implies otherwise.
 
-Happily, we're working mainly with sedimentary beds, so we can draw these uniform beds at angles going down based on our dip data which we've projected onto our profile!
+Happily, we're working mainly with sedimentary beds, so we can draw these uniform beds at angles going down based on our dip data which we've projected onto our profile! We'll create guid lines, then fill in our cross sections with colored polygons to show where we think the bedding sits.
 
 *Faults First*
 
-Look at where the fault lines have cut across. These can be major disruptions and getting a sense of their affect first is important. Let's look at the Maxwell fault. Our hint about what happened here is that we're seeing the Fountain formation twice on our geology map.
+Look at where the fault lines have cut across. These can be major disruptions and getting a sense of their affect first is important. Let's look at the Maxwell fault. Our hint about what happened here is that we're seeing the Fountain formation twice on our geology map and more of that "pink stuff" (granodiorite) got shoved up between it. This is different from a shear fault which are often represented in the media by the shift of the road paint line.
+
+We don't quite the angle of the fault from our data, so we'll draw a straight line.
 
 *Dip Angles*
 
+We can drop lines from our dip angles then move them to the contact boundaries at the surface of our profile.
+
+![cross section guidelines](images/CrossSectionGuidelines_scaled.png)
+
+After getting some guidelines, we can then draw in our colored beds. The dip angles aren't parallel, so maybe our data isn't perfect or maybe the faults have caused some warping. Other interesting things to think about are the Quaternery deposits (debris and landslides) which are likely shallow and acting as a blanket on top of the rock formations underneath. Also, the rocks to the west (left in this case) are igneous, so drawing in an artistic curved line or even a question mark on the boundary between Yg and XgdB would be appropriate. Again
+
+
+
 ### Detailing
 
+Inkscape has all sorts of tools for working with detailed graphics like these. I encourage you to hunt down all the great tutorials that are out there for this software. But there is one little detail I want to fix ... easily done with the object flipping option:
+
 ![horizontal flip dialog](images/FlipHorizontal_scaled.png)
+
+This little arrow hanging off the edge just needed to be put inside the figure:
 
 ![Cleaned up single label and arrow](images/FlippedYg_scaled.png)
 
