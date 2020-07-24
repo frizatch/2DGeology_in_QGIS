@@ -165,7 +165,7 @@ GeologicMaps - Retrieved from the [National Geologic Map Database](https://ngmdb
  - Wells
  
 GeologicSymbology
- - Rock type styling (lithclass.qml from the [USGS for state symbology](https://mrdata.usgs.gov/geology/state/qml_help.html))
+ - Rock type styling (lithclass.qml from the [USGS state symbology style](https://mrdata.usgs.gov/geology/state/qml_help.html))
  - Geologic symbols (.zip file subset of Dr. Lanford's pdf -> svg work)
 
 *Resources for finding this kind of information for other areas are listed at the end of the tutorial.*
@@ -371,7 +371,7 @@ Click okay and you'll have an elevation profile!:
 
 If you click and drag it around, you can stretch it to an aspect that you like.
 
-NOTE: this is temporary information and will only stay available as long as you have qProf open. You'll want to export information that you want to keep before closing the plugin's panel!
+NOTE: this is temporary information and will only stay available as long as you have qProf open. You'll export information that you want to keep before closing the plugin's panel!
 
 ### Pinning Geologic Information to Profile
 
@@ -419,6 +419,10 @@ HINT: if you don't use a pathname, your figure will land in the folder with your
 Most of this workshop is about working with geologic data in QGIS, but there is a lot of fun in trying to interpret a cross section from what we can see on the surface, so we'll take a small dive into how to do that with Inkscape, a vector graphics program that gives us some tools to create detailed drawings.
 
 To open our figure we exported from qProf, we can either find our file and use "Open with..." and pick Inkscape, or we can open Inkscape and select "Open..." from the "File" dropdown menu.
+
+When you bring in your jumbled cross section .svg file, it will look like this:
+
+![profiled imported into Inkscape](images/InkscapeGUIwMessy.png)
 
 ### Ungrouping
 
