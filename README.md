@@ -490,19 +490,15 @@ This little arrow hanging off the edge just needed to be put inside the figure:
 
 ### Maps and (maybe) GIS data
 
-[National Geologic Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
- 
-   - [Kellog 2008 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_84408.htm)
-
-   - [Wells 1967 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_21289.htm)
+- [National Geologic Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html) source of [Kellog 2008 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_84408.htm) and [Wells 1967 geologic map](https://ngmdb.usgs.gov/Prodesc/proddesc_21289.htm)
    
-[Colorado Geologic Survey](https://coloradogeologicalsurvey.org/gis-data-map-portal/)
+- [Colorado Geologic Survey](https://coloradogeologicalsurvey.org/gis-data-map-portal/)
 
 Look for similar state geologic survey office's websites!
 
-[Canada Geologic Survey](https://www.nrcan.gc.ca/science-data/science-research/earth-sciences/geography/topographic-information/10785)
+- [Canada Geologic Survey](https://www.nrcan.gc.ca/science-data/science-research/earth-sciences/geography/topographic-information/10785)
 
-[Servicio Geologico Mexicano](https://www.gob.mx/sgm)
+- [Servicio Geologico Mexicano](https://www.gob.mx/sgm)
 
 Google around for your country of interest with "Geological survey" and "GIS data" and you could turn something up!
 
