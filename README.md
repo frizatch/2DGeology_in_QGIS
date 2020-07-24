@@ -281,7 +281,7 @@ Next, click on "Simple Marker" and you'll see the options change a bit. Under "S
 
 Change the width and heigth of the symbol to around 7 so it's visible. The default of 2 is too small. Go ahead and click okay to see how these look on your map. You should see a number of little T's show up that are all pointing to the east.
 
-How do we get these mirror the measurement information in the attributes? Remember, we have two values: strike (or Azimuth) and Dip to represent.
+How do we get these to mirror the measurement information in the attributes? Remember, we have two values: strike (or Azimuth) and Dip to represent.
 
 Go back to the layer's properties. We'll use these fields to show more information on the map. AZIMUTH can be used to Rotate the symbol:
 
@@ -323,7 +323,7 @@ Rock formations have short-hand abbreviations based on their ages that can be us
 
 ![labeling polygons with label field](images/LabelingPolygons_scaled.png)
 
-Now we have a bonified geologic map! To put on the finishing touches, you would open a "New Print Layout" to add such things as a title, scalebar and geologic key. I will leave that to other tutorials. There are many out there!
+Now we have a bona fide geologic map! To put on the finishing touches, you would open a "New Print Layout" to add such things as a title, scalebar and geologic key. I will leave that to other tutorials. There are many out there!
 
 ![geologic map](images/GeologyDoneWithLabels.png)
 
@@ -351,11 +351,11 @@ Let's access the qProf plugin. You can find it in the Plugins dropdown menu at t
 
 ![qProf location](images/qProfLocation_scaled.png)
 
-A new qProf panel will appear in your working space that has a number of tabs to pick from. We'll leave it on the default "Topology" tab for now:
+A new qProf panel will appear in your working space that has a number of tabs to pick from. We'll leave it on the default "Topography" tab for now:
 
 ![Gooey with new plugin](images/GUIwqProf.png)
 
-Going down the options under the Topology tab, pick our DEM after clicking "Define source DEMs". You'll see other rasters, like the OSM basemap, appear in the options, but we want the file with the elevation data.
+Going down the options under the Topography tab, pick our DEM after clicking "Define source DEMs". You'll see other rasters, like the OSM basemap, appear in the options, but we want the file with the elevation data.
 
 Next, determine the transect information. You can hand draw any line (even one that isnt' straight!) on the map, but we're going to use the pre-built .geojson for the NCAR trail:
 
