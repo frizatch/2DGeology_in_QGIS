@@ -469,6 +469,8 @@ Google around for your country of interest with "Geological survey" and "GIS dat
 ### Geologic Symbology
 - Geologic symbols: [.svg library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Richard Langford created from USGS pdfs. Here's his [website](http://www.richardlangford.com/).
 - FGDC standards for [geologic symbology](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php)
+- Interesting [post](https://opengislab.com/blog/2019/3/16/converting-esri-styles-to-qgis-styles-using-slyr) about using Nyall Dawson's SLYR for converting ESRI style to QGIS XML
+
 
 ### Elevation Data
 - [Shuttle Radar Topography Mission (SRTM)](https://gisgeography.com/srtm-shuttle-radar-topography-mission/)
