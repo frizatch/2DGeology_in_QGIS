@@ -391,7 +391,7 @@ Click "Plot" at the bottom and you'll see a profile with the points of our data 
 
 Next, expand the options for intersection the line layer by clicking on that title. You'll pick the faults .geojson as the layer here, and maybe add the Id field to bring over the fault name and change the color to black.
 
-Lastly, we'll attach the outcrop information to our transect by intersection that polygon layer with our profile. Pick the polygon layer, then change the "Classification field" to "LABEL" and click "Intersect." You'll have an option to pick colors that get projected onto your profile and you want to make sure these match the style we have on the map. You can do this easily with the "Pick Color" option. Grab the colors directly off your map display to match the labels such as "Kph."
+Lastly, we'll attach the outcrop information to our transect by intersection that polygon layer with our profile. Pick the polygon layer, then change the "Classification field" to "LABEL" and click "Intersect." You'll have an option to pick colors that get projected onto your profile and you want to make sure these match the style we have on the map. You can do this easily with the "Pick Color" option. Grab the colors directly off your map display with the eyedropper cursor to match the labels such as "Kph."
 
 ![Pick color choice](images/PickingColors_scaled.png)
 
@@ -412,6 +412,22 @@ After adjusting your profile to the aspect you want, go to the "Export" tab and 
 ![export figure dialog](images/FigureExport_scaled.png)
 
 HINT: if you don't use a pathname, your figure will land in the folder with your applications. Pathnames can be copied on PCs from File Explorer Windows after clicking on the top bar to highlight the path. Pathnames on macs can be found by: Right click > Option (alt) HOLD > Copy pathname.
+
+## Part V: Interpreting a Cross Section and Building it in Inkscape
+![inkscape logo](images/InkscapeLogo_mini.png)
+
+Most of this workshop is about working with geologic data in QGIS, but there is a lot of fun in trying to interpret a cross section from what we can see on the surface, so we'll take a small dive into how to do that with Inkscape, a vector graphics program that gives us some tools to create detailed drawings.
+
+To open our figure we exported from qProf, we can either find our file and use "Open with..." and pick Inkscape, or we can open Inkscape and select "Open..." from the "File" dropdown menu.
+
+### Ungrouping
+
+### Layers
+
+### Using Surface Measurements to Estimate Underground Geology
+
+
+
 
 
 ## Resources
