@@ -393,7 +393,7 @@ Next, expand the options for intersection the line layer by clicking on that tit
 
 Lastly, we'll attach the outcrop information to our transect by intersection that polygon layer with our profile. Pick the polygon layer, then change the "Classification field" to "LABEL" and click "Intersect." You'll have an option to pick colors that get projected onto your profile and you want to make sure these match the style we have on the map. You can do this easily with the "Pick Color" option. Grab the colors directly off your map display to match the labels such as "Kph."
 
-![Pick color choice](images/PickingColor_scaled.png)
+![Pick color choice](images/PickingColors_scaled.png)
 
 HINT: Mac is a little tricky here. Hover your cursor over the appropriate color on the map and hit the spacebar instead of clicking. The eyedropper picker seems to work fine on the PC across the whole screen.
 
