@@ -428,7 +428,7 @@ When you bring in your jumbled cross section .svg file, it will look like this:
 
 If you try selecting objects, you'll notice that in order to work with them, you'll need to ungroup these vector graphics ... twice.
 
-![Ungrouping dialog](images/Ungroup.png)
+![Ungrouping dialog](images/Ungroup_scaled.png)
 
 But after the ungrouping, you get a mess and it's hard to click that carefully:
 
@@ -440,11 +440,19 @@ Putting all of the objects into layers that you can lock and edit with more cont
 
 ![Inkscape layers panel](images/InkscapeLayersPanel.png)
 
+Think about what makes sense to regroup, and create a layer for each one of these groups:
+
+![graphics separated into layer groups](images/InkscapeGraphicsInLayers.png)
+
+You'll be able to turn off the labels so you can see what you're doing. You can click them back on quickly when you need the information. Granted, you didn't have to export the labels at all, which would've been okay for this cross section, but sometimes they are needed for clarification.
+
 ### Using Surface Measurements to Estimate Underground Geology
+
+*Draw that cross section!*
 
 The hard and fun part is to use the information we pinned to our profile to try and draw the beddings structures underground. Think back to the diagrams in the first part of this tutorial showing how the intersection of a fault line, for example, my adjust bedding relationships, and what can we interpret based on what we know? We're just creating a model and that's all cross sections ever are because it's impossible to get bore hole data (actual underground sampling) everywhere.
 
-One rule of thumb we'll use, is assume sedimentary bedsa are of uniform thickness, unless you have data that implies otherwised.
+One rule of thumb we'll use, is assuming sedimentary beds are uniform in thickness unless you have data that implies otherwise.
 
 Happily, we're working mainly with sedimentary beds, so we can draw these uniform beds at angles going down based on our dip data which we've projected onto our profile!
 
