@@ -426,7 +426,19 @@ When you bring in your jumbled cross section .svg file, it will look like this:
 
 ### Ungrouping
 
-### Layers
+If you try selecting objects, you'll notice that in order to work with them, you'll need to ungroup these vector graphics ... twice.
+
+![Ungrouping dialog](images/Ungroup.png)
+
+But after the ungrouping, you get a mess and it's hard to click that carefully:
+
+![Many selected objects](images/InkscapeUngroupedMess.png)
+
+### Layers!
+
+Putting all of the objects into layers that you can lock and edit with more control is highly recommended.
+
+![Inkscape layers panel](images/InkscapeLayersPanel.png)
 
 ### Using Surface Measurements to Estimate Underground Geology
 
@@ -470,6 +482,7 @@ Google around for your country of interest with "Geological survey" and "GIS dat
 - Geologic symbols: [.svg library](http://members.iinet.net.au/~richard.langford/USGS.zip) (link is a direct download!) Dr. Richard Langford created from USGS pdfs. Here's his [website](http://www.richardlangford.com/).
 - FGDC standards for [geologic symbology](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php)
 - Interesting [post](https://opengislab.com/blog/2019/3/16/converting-esri-styles-to-qgis-styles-using-slyr) about using Nyall Dawson's SLYR for converting ESRI style to QGIS XML
+- USGS [publication](https://pubs.usgi.gov/of/2005/1314) on making ArcMap lithology styles
 
 
 ### Elevation Data
