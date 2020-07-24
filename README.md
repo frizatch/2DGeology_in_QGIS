@@ -430,6 +430,18 @@ When you bring in your jumbled cross section .svg file, it will look like this:
 
 ### Using Surface Measurements to Estimate Underground Geology
 
+The hard and fun part is to use the information we pinned to our profile to try and draw the beddings structures underground. Think back to the diagrams in the first part of this tutorial showing how the intersection of a fault line, for example, my adjust bedding relationships, and what can we interpret based on what we know? We're just creating a model and that's all cross sections ever are because it's impossible to get bore hole data (actual underground sampling) everywhere.
+
+One rule of thumb we'll use, is assume sedimentary bedsa are of uniform thickness, unless you have data that implies otherwised.
+
+Happily, we're working mainly with sedimentary beds, so we can draw these uniform beds at angles going down based on our dip data which we've projected onto our profile!
+
+### Detailing
+
+![horizontal flip dialog](images/FlipHorizontal_scaled.png)
+
+![Cleaned up single label and arrow](images/FlippedYg_scaled.png)
+
 
 
 
