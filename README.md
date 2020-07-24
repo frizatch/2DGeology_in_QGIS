@@ -456,6 +456,12 @@ One rule of thumb we'll use, is assuming sedimentary beds are uniform in thickne
 
 Happily, we're working mainly with sedimentary beds, so we can draw these uniform beds at angles going down based on our dip data which we've projected onto our profile!
 
+*Faults First*
+
+Look at where the fault lines have cut across. These can be major disruptions and getting a sense of their affect first is important. Let's look at the Maxwell fault. Our hint about what happened here is that we're seeing the Fountain formation twice on our geology map.
+
+*Dip Angles*
+
 ### Detailing
 
 ![horizontal flip dialog](images/FlipHorizontal_scaled.png)
