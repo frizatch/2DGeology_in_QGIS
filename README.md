@@ -450,7 +450,7 @@ You'll be able to turn off the labels so you can see what you're doing. You can 
 
 *Draw that cross section!*
 
-The hard and fun part is to use the information we pinned to our profile to try and draw the beddings structures underground. Think back to the diagrams in the first part of this tutorial showing how the intersection of a fault line, for example, my adjust bedding relationships, and what can we interpret based on what we know? We're just creating a model and that's all cross sections ever are because it's impossible to get bore hole data (actual underground sampling) everywhere.
+The hard and fun part is to use the information we pinned to our profile to try and draw the beddings structures underground. Think back to the diagrams in the first part of this tutorial showing how the intersection of a fault line, for example, my adjusted bedding relationships, and what can we interpret based on what we know? We're just creating a model and that's all cross sections ever are because it's impossible to get bore hole data (actual underground sampling) everywhere.
 
 One rule of thumb we'll use, is assuming sedimentary beds are uniform in thickness unless you have data that implies otherwise.
 
@@ -458,7 +458,7 @@ Happily, we're working mainly with sedimentary beds, so we can draw these unifor
 
 *Faults First*
 
-Look at where the fault lines have cut across. These can be major disruptions and getting a sense of their affect first is important. Let's look at the Maxwell fault. Our hint about what happened here is that we're seeing the Fountain formation twice on our geology map and more of that "pink stuff" (granodiorite) got shoved up between it. This is different from a shear fault which are often represented in the media by the shift of the road paint line.
+Look at where the fault lines have cut across. These can be major disruptions and getting a sense of their effect first is important. Let's look at the Maxwell fault. Our hint about what happened here is that we're seeing the Fountain formation twice on our geology map and more of that "pink stuff" (granodiorite) got shoved up between it. This is different from a shear fault which are often represented in the media by the shift of the road paint line.
 
 We don't quite the angle of the fault from our data, so we'll draw a straight line.
 
