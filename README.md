@@ -460,7 +460,7 @@ Happily, we're working mainly with sedimentary beds, so we can draw these unifor
 
 Look at where the fault lines have cut across. These can be major disruptions and getting a sense of their affect first is important. Let's look at the Maxwell fault. Our hint about what happened here is that we're seeing the Fountain formation twice on our geology map and more of that "pink stuff" (granodiorite) got shoved up between it. This is different from a shear fault which are often represented in the media by the shift of the road paint line.
 
-We don't quite the angle of the fault from our data, so we'll draw a straight line.
+We don't quite know the angle of the fault from our data, so we'll draw a straight line.
 
 *Dip Angles*
 
