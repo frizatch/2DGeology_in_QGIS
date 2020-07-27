@@ -532,7 +532,7 @@ Thanks to Miles Husky and Patrick McGranaghan for their help and inspiration!
 
 Screen shots in this tutorial were done with QGIS 3.14 on a mac. The live webinar (YouTube vid linked at http://qgis.us/qgis-na-2020.html) was done with QGIS 3.14 on a PC.
 
-A question was asked about how to bring in information if you DO have bore-hole, seismology and other underground data. The plugin [Midvatten](https://github.com/jkall/qgis-midvatten-plugin/wikiwas) recommended and it looks to be the perfect thing!
+A question was asked about how to bring in information if you DO have bore-hole, seismology and other underground data. The plugin [Midvatten](https://github.com/jkall/qgis-midvatten-plugin/wiki) was recommended and it looks to be the perfect thing!
 
 Webinar corrections (send a PR if you have one to add!)
 - Around 2:17:00, I called a Quaternary deposit a sandstone when I meant to say, "sand"... the "brown thing" is actually "Debris-flow deposits and Rocky Flats Alluvium"
