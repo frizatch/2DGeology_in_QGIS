@@ -530,7 +530,7 @@ Thanks to Miles Husky and Patrick McGranaghan for their help and inspiration!
 
 ## *Post-Webinar Notes*
 
-Screen shots in this tutorial were done with QGIS 3.14 on a mac. The live webinar (YouTube vid linked at http://qgis.us/qgis-na-2020.html) was done with QGIS 3.14 on a PC.
+Screen shots in this tutorial were done with QGIS 3.14 on a mac. The [live webinar](https://www.youtube.com/watch?v=bYIgS2Lu1UA&feature=youtu.be)(YouTube video also linked at http://qgis.us/qgis-na-2020.html) was done with QGIS 3.14 on a PC.
 
 A question was asked about how to bring in information if you DO have bore-hole, seismology and other underground data. The plugin [Midvatten](https://github.com/jkall/qgis-midvatten-plugin/wiki) was recommended and it looks to be the perfect thing!
 
